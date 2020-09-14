@@ -83,4 +83,7 @@ ul .nav-link:hover {
   background-color: coral;
   border-radius: 3px;
 }
+a {
+  cursor: pointer;
+}
 </style>
